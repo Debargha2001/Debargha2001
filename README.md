@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Debargha2001
-- 👀 I’m interested in MERN Stack Development , Java Backend Development , DAta Structures & Algorithms
+- 👀 I’m interested in MERN Stack Development , Java Backend Development , Data Structures & Algorithms
 - 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate on some good internship-grade projects or some good start-up ideas
 - 📫 How to reach me ... reach me at debarghadutta2001@gmail.com
